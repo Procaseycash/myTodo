@@ -1,0 +1,15 @@
+.my-todo {
+  position: absolute;
+  width: 40%;
+  left: 30%;
+  top: 30px;
+  bacground: #ccdedd
+}
+
+table, tr, td {
+  border: 0 !important;
+}
+
+td {
+  padding: 10px;
+}
